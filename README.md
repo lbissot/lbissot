@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @lbissot
+- 👋 Hi, I’m Ludo Bissot
 - 👀 I’m interested in data sciences, especially deep learning, astrophysics and high contrast imaging !
-- 🌱 I’m currently learning how to use Spectro Polarimetric High contrast Exoplanet REsearch or SPHERE data @LAM
+- 🌱 I’m currently learning how to use Spectro Polarimetric High contrast Exoplanet REsearch (SPHERE) data and python Vortex Image Processing (VIP) package @LAM.
 - 📫 If you want to reach me you can either contact me at ludo.bissot@student.uliege.be or at ludo.bissot@lam.fr
 
 <!---
