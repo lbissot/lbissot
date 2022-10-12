@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ludo Bissot
-- 👀 I’m interested in data sciences, especially deep learning, astrophysics and high contrast imaging !
-- 🌱 I’m currently learning how to use Spectro Polarimetric High contrast Exoplanet REsearch (SPHERE) data and python Vortex Image Processing (VIP) package @LAM.
+- 👀 I’m interested in data sciences, music, sports, ecology and travel !
+- 🌱 I’m currently doing my master thesis @LAM which consists in characterizing the performance of the SPHERE exoplanet imager at the Very Large Telescope using deep learning.
 - 📫 If you want to reach me you can either contact me at ludo.bissot@student.uliege.be or at ludo.bissot@lam.fr
 
 <!---
